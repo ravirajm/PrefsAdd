@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = PrefsAdd;
+	cell = PSLinkCell;
+	detail = PrefsAddListController;
+	icon = PrefsAdd.png;
+	isController = 1;
+	label = PrefsAdd;
+    };
+}
